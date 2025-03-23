@@ -26,3 +26,17 @@ output_device=1
 90 39 4b  90 45 44  80 45 00  80 39 00  90 3b 2c  90 47 61  80 47 00  80 3b 00  90 3c 28  90 48 57  80 48 00  80 3c 00  
 
 
+
+2025-03-23 19:57:46
+c es interval
+on
+90 3c 3d 90 3f 3d
+off
+80 3c 00 90 3f 00
+works on Prophet!
+
+double spaces should be deleted
+
+
+
+
